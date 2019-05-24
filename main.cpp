@@ -5,8 +5,6 @@
 #include <string>
 #include "PDA.h"
 
-/// am ales metoda de vidare a stivei si a cuvantului
-
 
 int main()
 {
